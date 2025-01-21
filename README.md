@@ -1,2 +1,7 @@
 # AdventOfCode2015
-blast in the past
+
+Christmas is timeless. Additionally, one must keep their skills sharp and their GitHub activity chart full.
+
+![Jolly Jolly Cinccino](cinccino.png)
+
+This year's problems will be attempted in C++!
