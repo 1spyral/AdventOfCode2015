@@ -20,7 +20,7 @@ int main() {
     }
 
     string word;
-    while (input >> word) {
+    while (getline(input, word, ' ')) {
 
     }
 
